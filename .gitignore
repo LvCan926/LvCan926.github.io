@@ -6,6 +6,6 @@ push.sh
 .openai/
 .publish/
 .bundle/
-vendor/
+/vendor/
 dist/
 design-qa.md
