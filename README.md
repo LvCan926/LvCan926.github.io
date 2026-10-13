@@ -7,7 +7,7 @@ A buildless, bilingual academic homepage designed for direct deployment to GitHu
 From the project directory:
 
 ```powershell
-python -m http.server 4173 --directory dist
+npx --yes serve@14 dist -l 4173
 ```
 
 Then open `http://localhost:4173`.
