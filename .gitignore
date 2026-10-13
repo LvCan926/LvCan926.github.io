@@ -1,3 +1,11 @@
+_site/
+push.sh
+.DS_Store
 .qa/
-node_modules/
-*.log
+.old-design/
+.openai/
+.publish/
+.bundle/
+vendor/
+dist/
+design-qa.md
